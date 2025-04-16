@@ -1,5 +1,5 @@
 # WhatsApp TV Shopping Assistant Bot 🤖📺
-
+![Preview of the bot](preview.png)
 This is a conversational AI chatbot designed to help customers choose the ideal TV based on their preferences and budget — directly from WhatsApp.
 
 Built with [Botpress](https://botpress.com), this bot assists users in comparing smart TV options, answers questions in natural language, and qualifies leads by offering to schedule a call with a human advisor.
